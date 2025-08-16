@@ -1,5 +1,5 @@
 <!-- Banner -->
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/GopalGod123)
+
 
 <div align="center">
   <h1>
@@ -8,7 +8,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="50px" />
   </h1>
   <h3>🤖 AI/ML Engineer & 💻 Full Stack Developer from India</h3>
-  
+  [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/GopalGod123)
   <p>
     <a href="mailto:gopalkhandelwalstar@gmail.com">📧 Email</a> •
     <a href="https://www.linkedin.com/in/gopal-khandelwal-a48380a5/">🔗 LinkedIn</a> •
