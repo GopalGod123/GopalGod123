@@ -1,5 +1,5 @@
 <!-- Banner -->
-
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/GopalGod123)
 
 <div align="center">
   <h1>
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/followers/gopalgod123?label=Followers&style=social" alt="followers" />
   </p>
 </div>
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/GopalGod123)
+
 <!-- Hero GIF -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
